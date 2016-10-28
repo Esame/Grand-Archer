@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/#custom/level/mykuhllevel.unity
+  isLoaded: 1
+  isActive: 1
